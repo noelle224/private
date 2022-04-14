@@ -1,0 +1,11 @@
+.AboutCard{
+    height: 40vh;
+    width: 85%;
+    margin: 50px;
+    margin-left: 100px;
+    background-color: rgba(253, 253, 253, 0.911);
+    border-radius: 3px;
+    -webkit-box-shadow: 5px 5px 5px 5px #0f0707; 
+    box-shadow: 5px 5px 5px 5px rgb(235, 189, 137)
+}
+

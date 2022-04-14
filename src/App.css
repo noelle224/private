@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(236, 198, 148);
+}
+.Website-logo{
+  margin-top: 5%;
+  height: 30%;
+  width: 40%;
+  object-fit: cover;
+  transition: 1.2s ease-in;
+}
+.Website-logo:hover{
+  height: 50%;
+  width: 70%;
+  transition: 1.2s ease-in;
+}
+.Name{
+  color: rgb(245, 243, 241);
+  font-family: monospace;
+}
+
+.logo-container{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+  margin-left: 30%;
+  background-color: rgba(253, 253, 253, 0.911);
+  color: rgb(8, 8, 8);
+  width: 40%;
+  height: 15vh;
+  padding-top: 5px;
+}
+  
